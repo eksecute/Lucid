@@ -1,2 +1,2 @@
 # Lucid
-Lucid one page landing page
+Lucid landing page
