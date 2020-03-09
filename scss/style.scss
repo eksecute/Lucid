@@ -461,7 +461,7 @@ section, header, footer {
 /* home
    ========================================================================== */
 .section-home {
-  background: url("/img/photo.png") no-repeat fixed 50% 50%;
+  background: url("../img/photo.png") no-repeat fixed 50% 50%;
   -webkit-background-size: cover;
   background-size: cover;
   position: relative;
@@ -771,7 +771,7 @@ section, header, footer {
     color: $color-white;
   }
   &::before {
-    background: url("/img/testi-bg.png") no-repeat 50% 50%;
+    background: url("../img/testi-bg.png") no-repeat 50% 50%;
     -webkit-background-size: cover;
     background-size: cover;
     z-index: -1;
@@ -1147,7 +1147,7 @@ section, header, footer {
    ========================================================================== */
 .section-map {
   z-index: 1;
-  background: url("/img/Warstwa 14.png") no-repeat center;
+  background: url("../img/Warstwa 14.png") no-repeat center;
   -webkit-background-size: cover;
   background-size: cover;
   height: 460px;
